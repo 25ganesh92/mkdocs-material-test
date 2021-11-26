@@ -1,0 +1,11 @@
+site_name: My Docs
+
+theme:
+  name: material
+
+extra_javascript:
+  - javascripts/extra.js
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.critic
